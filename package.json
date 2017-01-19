@@ -1,0 +1,26 @@
+{
+  "name": "ts-debugger",
+  "version": "1.0.4",
+  "description": "Custom console.log for use in typescript files",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splincode/ts-debugger.git"
+  },
+  "keywords": [
+    "custom",
+    "console",
+    "typescript",
+    "logger"
+  ],
+  "author": "Maxim Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splincode/ts-debugger/issues"
+  },
+  "homepage": "https://github.com/splincode/ts-debugger#readme"
+}
