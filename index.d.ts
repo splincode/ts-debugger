@@ -13,7 +13,7 @@ export class Logger {
 
     public debug(...args): Function;
 
-    public info(...args): Function;
+    public help(...args): Function;
 
     public info(...args): Function;
 
@@ -26,5 +26,7 @@ export class Logger {
     private static applyConsoleLog(color, label, args);
 
     private static isIE();
+
+    private static JSONStringify(object);
 
 }
