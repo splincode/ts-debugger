@@ -1,5 +1,7 @@
 ### Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/splincode/ts-debugger.svg)](https://greenkeeper.io/)
+
 ```bash
 $ npm install ts-debugger --save-dev
 ```
